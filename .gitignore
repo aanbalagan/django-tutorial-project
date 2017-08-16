@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+kumarvirtualenv
+db.sqlite3
+/static
+.DS_Store
